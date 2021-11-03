@@ -1,1 +1,1 @@
-# bingle
+# Bingle HTML Template
